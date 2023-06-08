@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-First script
+script on the go
